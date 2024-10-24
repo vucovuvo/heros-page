@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+text-align: center;
+background-color: rgb(0, 0, 0);
+}
+.fotinha {
+border-radius: 200;
+width: 1080;
+height: 600;
+}
+#inicio {
+bottom: 0;
+background: linear-gradient(#000, #770303);
+z-index: 9;
+}
+.fotona{ 
+border-style: solid;
+border-color: #000;
+border-width: 20px;
+}
+#name1{
+font-family:'MetalShow.ttf'
+}
+#name2{
+font-family:'MetalShow.ttf' ;
+}
+.myNavbar{
+position: sticky;
+top: 0;
+z-index: 9;
+}
+
+.links {
+display: inline;
+padding-left: 33px;
+padding-right: 25;
+font-family: 'Times New Roman', Times, serif;
+}
+.links:hover{
+font-size: 25px;
+}
+#contatos iframe{
+width: 90%;
+}
+.contatos1 h3{
+display: inline;
+padding-bottom: 20px;
+}
+#HEROS PAGE{
+font-family: 'Times New Roman', Times, serif;
+
+}
+.links:hover{
+
+    font-size: 25px;
+
+}
